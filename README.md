@@ -1,0 +1,2 @@
+# goosefish
+Forcused web crawler
